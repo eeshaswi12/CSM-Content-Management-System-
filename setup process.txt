@@ -1,0 +1,9 @@
+1. Download Python 3.10.5
+
+
+2. open the terminal and type this command
+	
+pip install flask   or pip install -r requirements.txt
+
+
+3.run app.py
